@@ -1,0 +1,1 @@
+python C:/projects/MIPT_extra/AudioML/Labs/Lab2/NISQA/run_predict.py --mode predict_file --pretrained_model C:/projects/MIPT_extra/AudioML/Labs/Lab2/NISQA/weights/nisqa.tar --deg C:/projects/MIPT_extra/AudioML/Labs/Lab2/mixed_audio/mix_snr_0db.wav --output_dir C:/projects/MIPT_extra/AudioML/Labs/Lab2/nisqa_file.csv
